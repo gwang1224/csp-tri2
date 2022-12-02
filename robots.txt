@@ -1,1 +1,1 @@
-Sitemap: https://nighthawkcoders.github.io/csp_tri2/sitemap.xml
+Sitemap: https://nighthawkcoders.github.io/csp-tri2/sitemap.xml
